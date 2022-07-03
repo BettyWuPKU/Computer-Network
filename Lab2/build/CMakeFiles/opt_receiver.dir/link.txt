@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/opt_receiver.dir/src/rtp.c.o CMakeFiles/opt_receiver.dir/src/util.c.o CMakeFiles/opt_receiver.dir/src/opt_receiver.c.o -o opt_receiver   -L/usr/local/lib 

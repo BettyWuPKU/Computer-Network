@@ -1,0 +1,8 @@
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/rebuild_cache.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/edit_cache.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/test_sender.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/test_receiver.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/sender.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/opt_sender.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/opt_receiver.dir
+/Users/bettywu/Desktop/assignment2-rtp/build/CMakeFiles/receiver.dir
